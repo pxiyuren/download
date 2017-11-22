@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://112.35.32.77:8100/appTD/scmapp/download/cmcc-1.0.45.ipa</string>
+                    <string>http://112.35.32.77:8100/appTD/page/common/version/download/app/cmcc.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
