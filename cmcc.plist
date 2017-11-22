@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://112.35.32.77:8100/appTD/page/common/version/download/app/cmcc.ipa</string>
+                    <string>http://112.35.32.77:8100/appTD/page/common/version/download/app/cmcc</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -17,7 +17,7 @@
                 <key>bundle-identifier</key>
                 <string>com.cmcc.scm</string>
                 <key>bundle-version</key>
-                <string>1.0.45</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
