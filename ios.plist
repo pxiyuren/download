@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx</string>
+                    <string>http://xxx.com</string>
                 </dict>
             </array>
             <key>metadata</key>
